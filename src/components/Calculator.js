@@ -38,7 +38,7 @@ function Calculator() {
         <button value="7" type="button" onClick={getButtonName} className="normal_btn">7</button>
         <button value="8" type="button" onClick={getButtonName} className="normal_btn negative_margin">8</button>
         <button value="9" type="button" onClick={getButtonName} className="normal_btn negative_margin">9</button>
-        <button value="*" type="button" onClick={getButtonName} className="orange_btn negative_margin">*</button>
+        <button value="x" type="button" onClick={getButtonName} className="orange_btn negative_margin">x</button>
       </section>
 
       <section className="quad">
