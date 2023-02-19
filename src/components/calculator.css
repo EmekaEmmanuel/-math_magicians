@@ -5,10 +5,21 @@
   font-family: 'Open Sans', sans-serif;
 }
 
-.app_container {
+.app_holder {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  align-items: baseline;
+  padding: 50px 0;
+}
+
+.app_holder article {
+  font-size: 35px;
+}
+
+.app_box {
   width: 75%;
   margin: auto;
-  padding: 50px 0;
 }
 
 .result p {
