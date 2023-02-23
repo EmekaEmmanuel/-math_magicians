@@ -206,7 +206,8 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
->
+- **[Allows users to Read alot of random math-related quotes..]**
+- **[Addition of Other Operations ..]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
