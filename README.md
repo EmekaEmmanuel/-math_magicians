@@ -196,20 +196,27 @@ To run the project, execute the following command:
 - Twitter: [@emekaekeoha](https://twitter.com/emekaekeoha)
 - LinkedIn: [emeka-ugboaja](https://www.linkedin.com/in/emeka-ugboaja-167820226)
 
+👤 **Author2**
+
+- GitHub: [Freddy Kaberuka](https://github.com/freddykaberuka)
+- Twitter: [@trojanx07](https://twitter.com/trojanx07)
+- LinkedIn: [Freddy Kaberuka](https://linkedin.com/in/kaberuka-freddy-853b08153/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
->
+- **[Allows users to Read alot of random math-related quotes..]**
+- **[Addition of Other Operations ..]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/EmekaEmmanuel/
-math_magiciansReact/issues).
+Feel free to check the [issues page](https://github.com/EmekaEmmanuel/math_magiciansReact/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
