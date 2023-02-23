@@ -196,6 +196,12 @@ To run the project, execute the following command:
 - Twitter: [@emekaekeoha](https://twitter.com/emekaekeoha)
 - LinkedIn: [emeka-ugboaja](https://www.linkedin.com/in/emeka-ugboaja-167820226)
 
+👤 **Author2**
+
+- GitHub: [Freddy Kaberuka](https://github.com/freddykaberuka)
+- Twitter: [@trojanx07](https://twitter.com/trojanx07)
+- LinkedIn: [Freddy Kaberuka](https://linkedin.com/in/kaberuka-freddy-853b08153/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
