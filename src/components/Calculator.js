@@ -1,4 +1,3 @@
-/* eslint-disable*/
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import Nav from './Nav';
@@ -19,15 +18,15 @@ function Calculator() {
   };
 
   return (
-    <div className="app_container"> 
+    <div className="app_container">
       <Nav />
 
-      <div className='app_holder'>
+      <div className="app_holder">
         <article>
-          Let's do some Maths!.
+          Let&apos;s do some Maths!.
         </article>
 
-        <div className='app_box'>
+        <div className="app_box">
           <section className="result">
             <p>
               {data.total}

@@ -8,6 +8,7 @@ function Nav() {
       <header className="nav_header">
         <h1>Math Magicians</h1>
         <nav className="nav_list">
+
           <li>
             <Link to="/" className="nav_anchor td_none">Home </Link>
           </li>
@@ -18,6 +19,7 @@ function Nav() {
             <Link to="/Quote" className="nav_anchor td_none">Quote</Link>
           </li>
         </nav>
+
       </header>
 
     </div>

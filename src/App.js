@@ -13,9 +13,9 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/Calculator" element={<Calculator />} />
           <Route path="/Quote" element={<Quote />} />
-
         </Routes>
       </div>
+
     </BrowserRouter>
   );
 }
